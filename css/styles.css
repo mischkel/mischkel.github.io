@@ -834,7 +834,7 @@ Intro
 }
 
 .intro p {
-    margin: 50px 0 0;
+    margin: 20px 0 30px;
 }
 
 h1.arrow {
@@ -1283,11 +1283,11 @@ up-btn:focus {
 Footer
 ========================================================================== */
 footer a {
-    color: #a1a9b0;
+    color: #8c9398;
 }
 
 footer {
-    background-color: #242830;
+    background-color: #f4f6f9;
     padding: 40px 0 30px;
 }
 
@@ -1370,7 +1370,7 @@ Waypoints
     background: url('../img/iphone-bg.png') no-repeat center center;
     background-position: 200px 10px;
     height: 100%;
-
+}
 .circle-image{
 	border-radius: 50%;
 }
